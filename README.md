@@ -2,7 +2,8 @@
 
 A sleek, modern, and immersive emulation frontend designed for Android. **Naranja** transforms your mobile gaming device into a unified console experience with an elegant, distraction-free user interface.
 
-![Naranja UI Showcase](naranja_ad_6.jpg)
+![Naranja UI Showcase]<img width="2834" height="1902" alt="naranja ad 6" src="https://github.com/user-attachments/assets/77694d36-ac8a-478e-bf3b-18f33e048207" />
+
 
 ## ✨ Features
 
