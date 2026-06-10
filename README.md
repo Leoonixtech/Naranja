@@ -28,7 +28,7 @@ A sleek, modern, and immersive emulation frontend designed for Android. **Naranj
 ## 🛠️ Tech Stack & Architecture
 * **Platform:** Android
 * **Language:** Kotlin 
-* **Scraping Engine:** SteamGridDB and 
+* **Scraping Engine:** TheGamesDB and ScreenScraper 
 
 ## 🗺️ Roadmap
 - [ ] Core UI/UX
