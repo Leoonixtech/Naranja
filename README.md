@@ -8,10 +8,10 @@ A sleek, modern, and immersive emulation frontend designed for Android. **Naranj
 ## ✨ Features
 
 * **Clean & Modern Interface:** Say goodbye to cluttered menus. Naranja features a minimalist, grid-based layout designed with consistency and fluid transitions in mind.
-* **Intuitive Games Tab:** Organize your systems and titles effortlessly. Browse through consoles like PlayStation Portable, Nintendo Wii, and more with high-quality box art and intuitive categorization.
+* **Intuitive Games Tab:** Organize your systems and titles effortlessly. Browse through consoles with high-quality box art and intuitive categorization.
 * **Dynamic Recents Tab:** Jump right back into the action. The Recents dashboard showcases your most recently played games, tracking your playtime and progression metrics at a glance.
-* **Media Playback Support:** Enjoy a media-centric experience inspired by classic systems like the PSP. Manage and enjoy your media files directly within the frontend.
-* **Social Connectivity (Coming later):** Connect with your friends. Features on the roadmap include customizable profiles (avatars, bio, pronouns), friends lists showing live statuses (e.g., *"Playing Mario Kart Wii"*), and shared play activity.
+* **Media Playback Support:** Enjoy a media-centric experience inspired by classic systems like XMB in the PSP. enjoy your media files directly within the frontend.
+* **Social Connectivity (Coming later):** Connect with your friends. Features on the roadmap include customizable profiles, friends lists showing live statuses and shared play activity.
 
 ## 🚀 Getting Started
 
