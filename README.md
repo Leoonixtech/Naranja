@@ -40,7 +40,6 @@ A sleek, modern, and immersive emulation frontend designed for Android. **Naranj
 ## 👥 Credits & Team
 
 * **Leoonix** ([@leoonixtech](https://github.com/Leoonixtech)) - Lead developer, UX/UI designer
-* **TTB** ([@ttbtech](https://github.com/ttbtech)) - Frontend/backend developer
 * *Special thanks to all alpha testers and open-source emulator developers who make this frontend possible!*
 
 ## 🤝 Contributing
